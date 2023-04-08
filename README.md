@@ -1,1 +1,3 @@
 # IRC_controll_circuit
+知能ロボットコンテスト用に作成したArduinoMega2560用シールド基板<br>
+ユニバーサル基板に作成したプロトタイプ基盤の写真とKicad6.0で作成したPCBデータの写真
